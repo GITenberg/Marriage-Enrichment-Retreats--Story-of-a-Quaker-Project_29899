@@ -1,0 +1,31 @@
+_repo: Marriage-Enrichment-Retreats--Story-of-a-Quaker-Project_29899
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29899-h/images/fcover.jpg
+creator:
+  authors:
+  - agent_name: Mace, Vera
+    alias: Mace, Vera Chapman
+    birthdate: 1902
+    gutenberg_agent_id: '34237'
+    url: http://www.gutenberg.org/2009/agents/34237
+  - agent_name: Mace, D. R. (David Robert)
+    alias: Mace, David Robert
+    gutenberg_agent_id: '34236'
+    url: http://www.gutenberg.org/2009/agents/34236
+description: ''
+gutenberg_issued: '2009-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage counseling'
+- !lcc 'HQ'
+- !lcsh 'Society of Friends'
+title: 'Marriage Enrichment Retreats: Story of a Quaker Project'
+url: http://www.gutenberg.org/ebooks/29899
